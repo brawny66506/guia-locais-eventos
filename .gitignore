@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development
+.env.production
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Arquivos do sistema operacional
+Thumbs.db
+.DS_Store
+
+# Arquivos de editores
+.vscode/
+.idea/
