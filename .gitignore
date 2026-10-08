@@ -19,3 +19,5 @@ Thumbs.db
 # Arquivos de editores
 .vscode/
 .idea/
+# Arquivos de backup
+*.bak
